@@ -1,6 +1,6 @@
 
 /**
- * html2pdf.js v0.9.3t
+ * html2pdf.js v0.9.3-taguchi
  * Copyright (c) 2021 Erik Koopmans
  * Released under the MIT License.
  */
