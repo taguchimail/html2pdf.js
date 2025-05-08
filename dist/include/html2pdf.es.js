@@ -1,6 +1,6 @@
 /**
  * html2pdf.js v0.9.3
- * Copyright (c) 2021 Erik Koopmans
+ * Copyright (c) 2025 Erik Koopmans
  * Released under the MIT License.
  */
 import jsPDF from 'jspdf';
