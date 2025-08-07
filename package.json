@@ -51,7 +51,7 @@
     "mocha": "^6.1.4",
     "pdftest": "^0.3.0",
     "rimraf": "^2.6.2",
-    "start-server-and-test": "^1.12.0",
+    "start-server-and-test": "^2.0.13",
     "webpack": "^5.45.1",
     "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2"
